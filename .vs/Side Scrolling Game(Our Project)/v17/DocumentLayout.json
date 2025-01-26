@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\side scrolling game(our project)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|solutionrelative:side scrolling game(our project)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\side scrolling game(our project)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|solutionrelative:side scrolling game(our project)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|d:\\my work\\sem - 2\\my c#\\my from application\\side scrolling game(our project)\\side scrolling game(our project)\\commingsoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|solutionrelative:side scrolling game(our project)\\commingsoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|d:\\my work\\sem - 2\\my c#\\my from application\\side scrolling game(our project)\\side scrolling game(our project)\\playername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|solutionrelative:side scrolling game(our project)\\playername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|d:\\my work\\sem - 2\\my c#\\my from application\\side scrolling game(our project)\\side scrolling game(our project)\\commingsoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|solutionrelative:side scrolling game(our project)\\commingsoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\side scrolling game(our project)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|solutionrelative:side scrolling game(our project)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|d:\\my work\\sem - 2\\my c#\\my from application\\side scrolling game(our project)\\side scrolling game(our project)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|solutionrelative:side scrolling game(our project)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|d:\\my work\\sem - 2\\my c#\\my from application\\side scrolling game(our project)\\side scrolling game(our project)\\playername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C92C4CD9-5785-43AA-BB39-2A2D2B71222D}|Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project).csproj|solutionrelative:side scrolling game(our project)\\playername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\MainForm.cs",
+              "RelativeDocumentMoniker": "Side Scrolling Game(Our Project)\\MainForm.cs",
+              "ToolTip": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\MainForm.cs [Design]",
+              "RelativeToolTip": "Side Scrolling Game(Our Project)\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T09:23:29.58Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\MainForm.cs",
+              "RelativeDocumentMoniker": "Side Scrolling Game(Our Project)\\MainForm.cs",
+              "ToolTip": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\MainForm.cs",
+              "RelativeToolTip": "Side Scrolling Game(Our Project)\\MainForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T09:42:26.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "playername.cs",
+              "DocumentMoniker": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\playername.cs",
+              "RelativeDocumentMoniker": "Side Scrolling Game(Our Project)\\playername.cs",
+              "ToolTip": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\playername.cs",
+              "RelativeToolTip": "Side Scrolling Game(Our Project)\\playername.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA8wB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T13:20:50.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\Form1.cs",
+              "RelativeDocumentMoniker": "Side Scrolling Game(Our Project)\\Form1.cs",
+              "ToolTip": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\Form1.cs [Design]",
+              "RelativeToolTip": "Side Scrolling Game(Our Project)\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T03:40:47.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "commingSoon.cs [Design]",
+              "DocumentMoniker": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\commingSoon.cs",
+              "RelativeDocumentMoniker": "Side Scrolling Game(Our Project)\\commingSoon.cs",
+              "ToolTip": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\commingSoon.cs [Design]",
+              "RelativeToolTip": "Side Scrolling Game(Our Project)\\commingSoon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T13:26:50.734Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "commingSoon.cs",
+              "DocumentMoniker": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\commingSoon.cs",
+              "RelativeDocumentMoniker": "Side Scrolling Game(Our Project)\\commingSoon.cs",
+              "ToolTip": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\commingSoon.cs",
+              "RelativeToolTip": "Side Scrolling Game(Our Project)\\commingSoon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T14:07:53.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\Form1.cs",
+              "RelativeDocumentMoniker": "Side Scrolling Game(Our Project)\\Form1.cs",
+              "ToolTip": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\Form1.cs",
+              "RelativeToolTip": "Side Scrolling Game(Our Project)\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T03:41:11.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "playername.cs [Design]",
+              "DocumentMoniker": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\playername.cs",
+              "RelativeDocumentMoniker": "Side Scrolling Game(Our Project)\\playername.cs",
+              "ToolTip": "D:\\MY WORK\\SEM - 2\\MY C#\\My From Application\\Side Scrolling Game(Our Project)\\Side Scrolling Game(Our Project)\\playername.cs [Design]",
+              "RelativeToolTip": "Side Scrolling Game(Our Project)\\playername.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T13:02:52.572Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

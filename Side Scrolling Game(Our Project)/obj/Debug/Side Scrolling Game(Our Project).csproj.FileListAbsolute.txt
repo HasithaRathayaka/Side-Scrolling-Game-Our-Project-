@@ -1,0 +1,17 @@
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\bin\Debug\Side Scrolling Game(Our Project).exe.config
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\bin\Debug\Side Scrolling Game(Our Project).exe
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\bin\Debug\Side Scrolling Game(Our Project).pdb
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\obj\Debug\Side Scrolling Game(Our Project).csproj.AssemblyReference.cache
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\obj\Debug\Side_Scrolling_Game_Our_Project_.Form1.resources
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\obj\Debug\Side_Scrolling_Game_Our_Project_.Properties.Resources.resources
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\obj\Debug\Side Scrolling Game(Our Project).csproj.GenerateResource.cache
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\obj\Debug\Side Scrolling Game(Our Project).csproj.CoreCompileInputs.cache
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\obj\Debug\Side Scrolling Game(Our Project).exe
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\obj\Debug\Side Scrolling Game(Our Project).pdb
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\obj\Debug\Side_Scrolling_Game_Our_Project_.MainForm.resources
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\bin\Debug\MetroFramework.Design.dll
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\bin\Debug\MetroFramework.dll
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\bin\Debug\MetroFramework.Fonts.dll
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\obj\Debug\Side Scr.0B601E49.Up2Date
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\obj\Debug\Side_Scrolling_Game_Our_Project_.commingSoon.resources
+D:\MY WORK\SEM - 2\MY C#\My From Application\Side Scrolling Game(Our Project)\Side Scrolling Game(Our Project)\obj\Debug\Side_Scrolling_Game_Our_Project_.playername.resources
